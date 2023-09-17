@@ -1,0 +1,7 @@
+https://github.com/sumanismcse/Plant-Disease-Identification-using-CNN
+https://github.com/shukur-alom/leaf-diseases-detect
+https://github.com/pratikkayal/PlantDoc-Dataset
+https://github.com/manthan89-py/Plant-Disease-Detection
+https://github.com/sumanismcse/Plant-Disease-Identification-using-CNN/blob/master/PlantDiseaseDetection.py
+https://github.com/spMohanty/PlantVillage-Dataset
+https://www.kaggle.com/code/osamaabobakr/planet-diseases-98
